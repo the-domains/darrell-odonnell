@@ -1,0 +1,28 @@
+name: darrell.odonnell
+favicon: null
+layout_spectrum: 0.47484813653863966
+typography_spectrum: 0.9695295738056302
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.3211529676336795
+  lightness: 0.6759545360691845
+  saturation: 0.7073913663625717
+  rhythmicContrast: 0.18344516912475228
+purpose: []
